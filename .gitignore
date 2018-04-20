@@ -1,0 +1,10 @@
+*.mp3
+*.png
+*.csv
+*.pyc
+*.log
+*.swp
+*.h5
+*.dat
+aws/*.hdf5
+.ipynb_checkpoints/
